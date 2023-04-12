@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.faq {
+  margin-top: 15%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
